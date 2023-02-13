@@ -1,3 +1,3 @@
 # SecureVoting
 
-best dapp u'll ever see
+originally on https://github.com/Givaa/SecureVoting
